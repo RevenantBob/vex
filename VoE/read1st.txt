@@ -1,0 +1,29 @@
+Vengeance of the Excalibur
+
+Installation:
+
+1.  Extract vengeance.zip with your favorite unarchiver.
+
+2.  DblClick on voe.exe (This will extract the game into a directory called /voe under the location that you have chosen).
+
+Playing the Game:
+
+This is a DOS game but can be played in Windows95/98 if you have enough Conventional Memory available (other versions of Windows have not been tested).
+
+Go to the folder where you extracted the game to and...
+
+DblClick on either vex.exe (to start the game with the intro stuff) or game.exe to go directly to the game. 
+
+...and the game should start.
+
+Hardware:
+
+The game is currently configured to run with Adlib sound, VGA graphics, and Mouse control.  If your configuration is different, be sure to configure the game with the install.exe program.
+
+Misc:
+
+The French, German, and the original English language versions (located in their respective subdirectories) are included.  To use them, copy the files for the version you would like to use into the game's main directory and overwrite the files that are already present.  
+
+The game as currently setup has no copy protection, but if you use one of the other versions (as described above) the copy protection will be reactivated.  A program known as "Locksmith" has been reported to work in fixing this problem.
+
+Brought to you by The Home of the Underdogs at http://www.the-underdogs.org/
